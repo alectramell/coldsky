@@ -14,13 +14,13 @@ clear
 
 main_view() {
 
-zenity --title="ColdSky v1.0" --text-info --html --width="347" --height="389" --url="https://github.com/alectramell/coldsky/raw/master/001.gif" --ok-label="[?]" --cancel-label="EXIT"
+zenity --title="ColdSky v1.0" --text-info --html --width="347" --height="389" --url="https://github.com/alectramell/coldsky/raw/master/main.gif" --ok-label="[?]" --cancel-label="EXIT"
 
 }
 
 storm_view() {
 
-zenity --title="ColdSky v1.0" --text-info --html --width="347" --height="389" --url="https://github.com/alectramell/coldsky/raw/master/002.gif" --ok-label="[?]" --cancel-label="EXIT"
+zenity --title="ColdSky v1.0" --text-info --html --width="347" --height="389" --url="https://github.com/alectramell/coldsky/raw/master/storm.gif" --ok-label="[?]" --cancel-label="EXIT"
 
 }
 

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ColdSky
+Type=Application
+Icon=/home/alectramell/Desktop/coldsky/icon.svg
+Exec=bash /home/alectramell/Desktop/coldsky/menu.sh
+Terminal=false
