@@ -26,10 +26,13 @@ zenity --title="ColdSky v1.0" --text-info --html --width="347" --height="389" --
 
 clear
 
-if [ $timeline -gt "45" ]
+if [ $timeline -gt "50" ]
 then
 	storm_view
-elif [ $timeline -lt "10" ]
+elif [ $timeline -lt "05" ]
+then
+	storm_view
+elif [ $timeline -eq "30" ]
 then
 	storm_view
 else
